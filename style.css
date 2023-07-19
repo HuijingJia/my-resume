@@ -1,4 +1,15 @@
-h1{text-align: center;}
-.selfile{float: right;}
+#pro-content{
+    margin-right: 5%;
+}
+
+
+.Education, .Projects, #Expre-content, .Skills{
+    text-align: left;
+}
+div{
+    text-align: center;
+}
 
 html{background-color: antiquewhite;}
+
+
